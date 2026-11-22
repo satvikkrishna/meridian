@@ -1,6 +1,6 @@
 # Phase Tracking
 
-> Read this at the start of every Claude Code session.
+> Read this at the start of every work session.
 > Update at the end of every session.
 
 ---

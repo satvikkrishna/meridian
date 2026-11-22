@@ -60,6 +60,5 @@ demos/*.mov
 Thumbs.db
 
 # AI tooling
-.claude/
 .mcp.json
 .cursorrules
